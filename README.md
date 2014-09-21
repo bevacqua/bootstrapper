@@ -1,0 +1,7 @@
+# {package}
+
+> {description}
+
+# License
+
+MIT

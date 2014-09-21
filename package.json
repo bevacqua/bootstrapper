@@ -1,0 +1,20 @@
+{
+  "name": "{package}",
+  "description": "{description}",
+  "version": "1.0.0",
+  "homepage": "https://github.com/bevacqua/{package}",
+  "author": {
+    "name": "Nicolas Bevacqua",
+    "email": "ng@bevacqua.io",
+    "url": "http://bevacqua.io"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bevacqua/{package}.git"
+  },
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
